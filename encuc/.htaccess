@@ -1,0 +1,9 @@
+AddDefaultCharset utf-8
+php_value post_max_size 30M
+php_value upload_max_filesize 30M
+php_value memory_limit 300M
+php_value max_execution_time 259200
+php_value max_input_time 259200
+php_value session.gc_maxlifetime 1200
+php_value mssql.timeout 200
+php_value mssql.connect_timeout 15
